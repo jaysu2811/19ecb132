@@ -27,11 +27,11 @@
 
 
 
-[linear data structures](https://github.com/jaysu2811/19ecb132/blob/main/linked%20list)
+[linear data structures.c](https://github.com/jaysu2811/19ecb132/blob/main/linked%20list)
 
 
 
-[https://github.com/jaysu2811/19ecb132/blob/main/linked%20list](https://github.com/jaysu2811/19ecb132/blob/main/sumofintegers.c)
+[linkedlist.c](https://github.com/jaysu2811/19ecb132/blob/main/sumofintegers.c)
 
 
 
