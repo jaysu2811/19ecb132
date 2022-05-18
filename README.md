@@ -19,7 +19,7 @@
 
 
 
-[insertion_sort.c](https://github.com/jaysu2811/19ecb132/blob/main/insertion_sort.c0
+[insertion_sort.c](https://github.com/jaysu2811/19ecb132/blob/main/insertion_sort.c)
 
 
 
