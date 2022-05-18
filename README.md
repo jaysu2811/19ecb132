@@ -1,10 +1,9 @@
 # 19ecb132
-[ADD,DELETE,MODIFY AN ELEMENT IN ARRAY.c](ADD,DELETE,MODIFY AN ELEMENT IN ARRAY.c)  
+[ADDDELETEMODIFYANELEMENTINARRAY.c](ADDDELETEMODIFYANELEMENTINARRAY.c)  
 
 
 
-
-[ADD,DELETE,MODIFY IN SINGLE LINKED LIST.c](ADD,DELETE,MODIFY IN SINGLE LINKED LIST.c)  
+[ADDDELETEMODIFY IN SINGLE LINKED LIST.c](ADDDELETEMODIFYINSINGLELINKEDLIST.c)  
 
 
 
@@ -14,17 +13,17 @@
 
 
 
-[bitwise opr.c](bitwise opr.c)  
+[bitwiseopr.c](bitwiseopr.c)  
 
 
 
 
-[double linked list.c](double linked list.c)  
+[doublelinkedlist.c](doublelinkedlist.c)  
 
 
 
 
-[insertion_sort.c](insertion_sort.c)  
+[insertionsort.c](insertion_sort.c)  
 
 
 
@@ -34,7 +33,7 @@
 
 
 
-[linear data structures.c](linear data structures.c)  
+[lineardatastructures.c](linear data structures.c)  
 
 
 
