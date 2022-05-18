@@ -1,5 +1,5 @@
 # 19ecb132
-[ADD,DELETE,MODIFY AN ELEMENT IN ARRAY](https://github.com/jaysu2811/19ecb132/blob/main/ADD%2CDELETE%2CMODIFY%20AN%20ELEMENT%20IN%20ARRAY.c)
+[ADD,DELETE,MODIFY AN ELEMENT IN ARRAY.c](https://github.com/jaysu2811/19ecb132/blob/main/ADD%2CDELETE%2CMODIFY%20AN%20ELEMENT%20IN%20ARRAY.c)
 https://github.com/jaysu2811/19ecb132/blob/main/ADD%2CDELETE%2CMODIFY%20IN%20SINGLE%20LINKED%20LIST.c
 https://github.com/jaysu2811/19ecb132/blob/main/binarytree.c
 https://github.com/jaysu2811/19ecb132/blob/main/bitwise%20opr.c
