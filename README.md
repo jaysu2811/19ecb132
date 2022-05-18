@@ -1,41 +1,50 @@
 # 19ecb132
-[ADD,DELETE,MODIFY AN ELEMENT IN ARRAY.c](https://github.com/jaysu2811/19ecb132/blob/main/ADD%2CDELETE%2CMODIFY%20AN%20ELEMENT%20IN%20ARRAY.c)
+[ADD,DELETE,MODIFY AN ELEMENT IN ARRAY.c](ADD,DELETE,MODIFY AN ELEMENT IN ARRAY.c)  
 
 
 
-[ADD,DELETE,MODIFY IN SINGLE LINKED LIST.c](https://github.com/jaysu2811/19ecb132/blob/main/ADD%2CDELETE%2CMODIFY%20IN%20SINGLE%20LINKED%20LIST.c)
+
+[ADD,DELETE,MODIFY IN SINGLE LINKED LIST.c](ADD,DELETE,MODIFY IN SINGLE LINKED LIST.c)  
 
 
 
-[binarytree.c](https://github.com/jaysu2811/19ecb132/blob/main/binarytree.c)
+
+[binarytree.c](binarytree.c)  
 
 
 
-[bitwise opr.c](https://github.com/jaysu2811/19ecb132/blob/main/bitwise%20opr.c)
+
+[bitwise opr.c](bitwise opr.c)  
 
 
 
-[double linked list.c](https://github.com/jaysu2811/19ecb132/blob/main/double%20linked%20list.c)
+
+[double linked list.c](double linked list.c)  
 
 
 
-[insertion_sort.c](https://github.com/jaysu2811/19ecb132/blob/main/insertion_sort.c)
+
+[insertion_sort.c](insertion_sort.c)  
 
 
 
-[lettercount.c](https://github.com/jaysu2811/19ecb132/blob/main/linear%20data%20structures)
+
+[lettercount.c](lettercount.c)  
 
 
 
-[linear data structures.c](https://github.com/jaysu2811/19ecb132/blob/main/linked%20list)
+
+[linear data structures.c](linear data structures.c)  
 
 
 
-[linkedlist.c](https://github.com/jaysu2811/19ecb132/blob/main/sumofintegers.c)
+
+[linkedlist.c](linkedlist.c)  
 
 
 
-[sumofintegers.c](https://github.com/jaysu2811/19ecb132/blob/main/sumofintegers.c)
+
+[sumofintegers.c](sumofintegers.c)  
 
 
 
