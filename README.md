@@ -8,3 +8,4 @@ https://github.com/jaysu2811/19ecb132/blob/main/insertion_sort.c
 https://github.com/jaysu2811/19ecb132/blob/main/linear%20data%20structures
 https://github.com/jaysu2811/19ecb132/blob/main/linked%20list
 https://github.com/jaysu2811/19ecb132/blob/main/sumofintegers.c
+[prgm 1]{binarytree.c}
