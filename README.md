@@ -6,7 +6,6 @@
 [doublelinkedlist.c](doublelinkedlist.c)  
 [insertionsort.c](insertion_sort.c)  
 [lettercount.c](lettercount.c)  
-[linkedlist.c](linkedlist.c)  
 [sumofintegers.c](sumofintegers.c)  
 [relationalopr.c](relationalopr.c)  
 
