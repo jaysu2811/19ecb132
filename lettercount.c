@@ -22,7 +22,7 @@ The number of letters in the given sentence are : 5
 
 Case - 02  
 Enter a sentence: jaya surya
-The number of letters in the given sentence are : 9
+The number of letters in the given sentence are : 4
 
 */  
 
