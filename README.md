@@ -8,5 +8,5 @@
 [lettercount.c](lettercount.c)  
 [sumofintegers.c](sumofintegers.c)  
 [relationalopr.c](relationalopr.c)  
-
+[slinkedlist.c](slinkedlist.c)
 
